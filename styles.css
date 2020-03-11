@@ -18,6 +18,7 @@
     display: flex;
   }
   .value {
+    display: block;
     color: #fff;
     font-size: 4.2rem;
     text-transform: uppercase;
